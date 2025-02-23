@@ -46,7 +46,13 @@
 ![19](https://github.com/user-attachments/assets/3ca03292-e102-43b0-bb23-65c230219fff)
 ![20](https://github.com/user-attachments/assets/c4b18a9c-26fa-41c9-9364-36c39eea9cbd)
 ![21](https://github.com/user-attachments/assets/8a9c50a7-4316-4a7d-abd2-1e8f0f200e52)
-![22](https://github.com/user-attachments/assets/0a57a98b-0723-4a60-a5c9-5c8925f57bca)
+
+
+# 产品体验
+
+如果你对本项目感兴趣，项目合作、体验请联系微信
+![wx](https://github.com/user-attachments/assets/53eb2aa3-5473-459b-8f37-f6e213680a3c)
+
 
 
 
