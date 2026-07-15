@@ -202,20 +202,9 @@
    </div>`
 ` 
 ` <div>
-      <img src="/test/205.png" alt="logo" >
-   </div>`
-` <div>
       <img src="/test/svg.png" alt="logo" >
    </div>`
-` <div>
-      <img src="/test/009.png" alt="logo" >
-   </div>`
-` <div>
-      <img src="/test/206.png" alt="logo" >
-   </div>`
-` <div>
-      <img src="/test/011.png" alt="logo" >
-   </div>`
+
 ` <div>
       <img src="/test/014.png" alt="logo" >
    </div>`
@@ -246,10 +235,6 @@
 
 ` <div>
       <img src="/test/0012.png" alt="logo" >
-   </div>`
-
-` <div>
-      <img src="/test/012.png" alt="logo" >
    </div>`
 
 ` <div>
@@ -305,9 +290,6 @@
    </div>`
 ` <div>
       <img src="/test/yct02.png" alt="logo" >
-   </div>`
-` <div>
-      <img src="/test/yct03.png" alt="logo" >
    </div>`
 
 
@@ -440,7 +422,7 @@ bash startup.sh -m standalone
     开源代码，仅供学习和研究使用，如需商务合作请联系我们；
 
  ` <div>
-      <img src="/quan.png" alt="logo" >
+      <img src="/test//quan.png" alt="logo" >
    </div>`
 
     
@@ -463,7 +445,7 @@ bash startup.sh -m standalone
 
 
 ` <div>
-      <img src="/quan.png" alt="logo" >
+      <img src="/test/quan.png" alt="logo" >
    </div>`
 
     
