@@ -225,40 +225,6 @@
 ` <div>
       <img src="/test/014.png" alt="logo" >
    </div>`
-` <div>
-      <img src="/test/015.png" alt="logo" >
-   </div>`
-` <div>
-      <img src="/test/016.png" alt="logo" >
-   </div>`
-` <div>
-      <img src="/test/017.png" alt="logo" >
-   </div>`
-` <div>
-      <img src="/test/018.png" alt="logo" >
-   </div>`
-` <div>
-      <img src="/test/020.png" alt="logo" >
-   </div>`
-` <div>
-      <img src="/test/021.png" alt="logo" >
-   </div>`
-` <div>
-      <img src="/test/207.png" alt="logo" >
-   </div>`
-` <div>
-      <img src="/test/023.png" alt="logo" >
-   </div>`
-
-` <div>
-      <img src="/test/025.png" alt="logo" >
-   </div>`
-` <div>
-      <img src="/test/026.png" alt="logo" >
-   </div>`
-` <div>
-      <img src="/test/027.png" alt="logo" >
-   </div>`
 
 
 #### 九、数据看板-可视化组件配置
