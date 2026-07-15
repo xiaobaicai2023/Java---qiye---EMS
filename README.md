@@ -101,9 +101,6 @@
 
     websocket订阅模式，系统定时下行指令，设备上报后进入消息队列rabbitmq，由采集服务分布式处理。
 
-  `<div>
-      <img src="/websocket.png" alt="logo"  weith="400px"  height = "400px" >
-   </div>
 
  <div>
       <img src="/websocket1.png" alt="logo"  weith="400px"  height = "400px" >
@@ -159,9 +156,6 @@
 
 【配置转发方式：是MQTT 还是 TCP/IP socket  还是 其他方式】
 
- ` <div>
-      <img src="/02.png" alt="logo" >
-   </div>`
 
 【配置转发的点位（变量）：如电压参数、电流参数、Ua、Ub等】
 
