@@ -26,7 +26,7 @@
 
 
 # 五、软件截图
-<img width="1920" height="962" alt="01" src="https://github.com/user-attachments/assets/c49c7794-8dbb-4d6b-b518-529c96779327" />
+
 
 
 
