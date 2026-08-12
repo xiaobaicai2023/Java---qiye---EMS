@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <p height="30px">基于 Vue3 / Spring Boot/Spring Cloud & Alibaba 微服务架构</p>
+  <p height="30px">基于 Vue3 / Spring Boot/Spring Cloud & Alibaba 微服务架构-</p>
 </div>
 <div align="center">
 
