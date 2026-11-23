@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" >
-  <p height="50px"><strong>云捷EMS开源/能源管理系统</strong></p>
+  <p height="50px"><strong>云捷EMS开源/能源管理系统-</strong></p>
 </div>
 
 <div align="center">
